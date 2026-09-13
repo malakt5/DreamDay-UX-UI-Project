@@ -33,7 +33,7 @@ The research identified several important challenges:
 * **Budget management** was another major concern.
 * Users also experienced difficulties when **comparing different options**.
 * Reviews and feedback have an important influence on users' decisions.
-* Users showed interest in having a platform that provides the essential wedding-planning services in one place.
+* Users showed interest in having a platform that provides essential wedding-planning services in one place.
 
 ## 👤 User Personas
 
@@ -63,7 +63,7 @@ The final concept is centered around an **all-in-one planning dashboard**, with 
 
 The interface and prototype were designed using **Figma**.
 
-🔗 **[View the DreamDay Figma Design & Prototype](YOUR_FIGMA_LINK)**
+🔗 [**View the DreamDay Figma Design & Prototype**](https://www.figma.com/design/Ac1wGB0bgLgG5e9joReMzk/Untitled?node-id=0-1&t=R7z6EadU3vxprjrp-1)
 
 > Make sure the Figma sharing settings allow viewers to access the project without requesting permission.
 
@@ -71,7 +71,7 @@ The interface and prototype were designed using **Figma**.
 
 The complete project presentation contains the UX research, survey analysis, personas, findings, sketches, and proposed solution.
 
-📑 **[View the DreamDay Project Presentation](./DreamDay-Presentation.pdf)**
+📑 [**View the DreamDay Project Presentation**](./Dream%20Day%20Presentation.pdf)
 
 ## 🛠️ Tools & Methods
 
@@ -113,4 +113,5 @@ UX/UI Design & User Research Project
 ---
 
 💍 **DreamDay — Plan your dream wedding with confidence.**
+
 
